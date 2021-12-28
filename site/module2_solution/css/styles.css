@@ -1,0 +1,21 @@
+h1{
+ color:black;
+ text-align:center;
+}
+.row gx-5 {
+	background-size: auto;
+	background-color: gray;
+}
+.col-md-4{
+	column-width: auto;
+	background: gray;
+}
+.p-1{
+	background-color: red;
+}
+.d-flex align-items-end flex-column{
+	background-color: gray;
+}
+.p-3 border bg-light{
+	background-color: gray;
+}
